@@ -1,6 +1,6 @@
 # Data-Analytics-Intership-At-Prepinsta-
 
-Following Are The Projects That I Am Going To Work 
+Following Are The Projects That I Have Worked During The Intership  
 
 **Project 1 :**
 
