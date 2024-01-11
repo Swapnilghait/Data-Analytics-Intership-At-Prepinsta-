@@ -85,7 +85,7 @@ These meticulous steps aim to refine the Chipotle dataset, rectify inconsistenci
 
 **Google Colab Link : https://colab.research.google.com/drive/1kE1mcDEh2CiFEMIsvN9A9n25ySbNOV0x?usp=sharing**
 
-
+**Documentation : https://drive.google.com/file/d/12g9LBZVk-e7lnpp9OQ-__drU9jsrusny/view?usp=sharing**
 
 
 
