@@ -75,3 +75,19 @@ These meticulous steps aim to refine the Chipotle dataset, rectify inconsistenci
 **Google Colab Link : https://colab.research.google.com/drive/1h5j58QVVsWPHIkJAFDQN5kQLo_tYNZmm?usp=sharing**
 
 **Documentation : https://drive.google.com/file/d/1J_zNgt5pmUn6aVTp9mAYxATW6_rK_xbi/view?usp=sharing**
+
+
+**Project 4 :**
+
+**World Bank Data :**
+
+**This repository recreates Hans Rosling's captivating TED talk visualization using Python's powerful data science tools. Dive into the intricate tapestry of global health trends, dissect population dynamics, and unveil the intricate correlations between life expectancy and fertility rates. The project encompasses a mesmerizing animated graph, bringing to life the nuanced shifts from 1960 to 2016. Supplementing the animated spectacle are static visualizations offering nuanced perspectives on historical and regional health patterns. Simply follow the provided steps for seamless data preprocessing, merging, and visualization, unlocking a comprehensive understanding of this iconic representation of global health data.**
+
+**Google Colab Link : https://colab.research.google.com/drive/1kE1mcDEh2CiFEMIsvN9A9n25ySbNOV0x?usp=sharing**
+
+
+
+
+
+
+
