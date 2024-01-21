@@ -89,5 +89,43 @@ These meticulous steps aim to refine the Chipotle dataset, rectify inconsistenci
 
 
 
+**Project 4 :**
+
+**SQL Murder Mystery And Web Scrapping**
+
+**SQL Murder Mystery Project :**
+
+**Solved a thrilling SQL Murder Mystery during my Data Analytics internship at PrepInsta. Investigated a murder that occurred on Jan. 15, 2018, in SQL City, using Python and SQL queries. Explored crime scene reports, witness interviews, gym databases, and car details to piece together clues. Documented findings, drew conclusions, and prepared a detailed report. A hands-on journey into data analytics, blending detective work with tech skills.**
+
+**Google Colab Link : https://colab.research.google.com/drive/1qlVLN9uIZfqQN5CvTPi5hTGEGu9EvV19?usp=sharing**
+
+**Documentation : https://drive.google.com/file/d/1uPlWrXjb7EPzhmKUDfO6QjRsFaoJbGzP/view?usp=sharing**
+
+
+
+**Web Scraping Project: Books.toscrape.com :**
+
+**Objective: Scrape book information from the https://books.toscrape.com website.**
+
+**Tools Used: Python, Beautiful Soup**
+
+**Process:**
+
+**Target Website: Chose books.toscrape.com, ensuring compliance with terms of service.
+HTML Inspection: Examined HTML structure using browser developer tools to identify relevant elements.
+Web Scraping Tool: Utilized Python with Beautiful Soup for efficient web scraping.
+Code Implementation: Wrote code to fetch book pages, send HTTP requests, and retrieve HTML content.
+HTML Parsing: Utilized Beautiful Soup to parse HTML content and create a parse tree.
+Data Extraction: Implemented code to locate and extract book details like title, author, price, and description.
+Pagination Handling: Addressed paginated pages, ensuring data collection from multiple pages.
+Data Processing: Decided on data handling - stored data in a file, database, or processed within the script.
+Anti-Scraping Measures: Considered and adjusted scraping strategy for potential anti-scraping measures.
+Testing and Refinement: Tested the script on various book pages, refining it for reliability.**
+
+**Google Colab Link : https://colab.research.google.com/drive/177svFHyTHmh0Qbagp-3jAL9Kwz5ufU-F?usp=sharing**
+
+**Documentation : https://drive.google.com/file/d/17REDLahi--9ZIqrmRacIHprDHAxfp5xf/view?usp=sharing**
+
+
 
 
