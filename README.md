@@ -130,3 +130,61 @@ Testing and Refinement: Tested the script on various book pages, refining it for
 
 
 
+**Project 6 :**
+
+**Indian Cars And Superstore Sales (Data Analysis and Visualization)**
+
+**Indian Cars :**
+
+**Project Description:**
+
+**This data analysis project delves into the Indian car market using a dataset with 141 columns, analyzing May 2023 sales. Employing Seaborn, Plotly, Matplotlib, and Pandas, it follows a structured approach:**
+
+**Univariate Analysis:**
+
+**Explore dataset structure and handle missing values.
+Check and adjust data types.
+Calculate descriptive statistics, visualize distributions, and represent categorical counts.**
+
+**Bivariate Analysis:**
+
+**Create a correlation matrix and explore relationships.
+Plot scatter, pair, bar charts with 'hue,' and heatmaps.
+Utilize joint plots, box plots with 'hue,' categorical plots, violin plots, and stacked bar charts.**
+
+**Insights and Documentation:**
+**Document key findings from both analyses, supported by visualizations, offering a comprehensive exploration of the Indian car market dataset.**
+
+**Google Colab Link : https://drive.google.com/drive/folders/1_gD4iZnXlPxiLmj-HTHM7h_88dvMgNqI?usp=drive_link**
+
+
+
+**Superstore Sales :**
+
+**Project Description:**
+
+**This project conducts exploratory data analysis on a four-year retail dataset from a global superstore. Using Pandas, Matplotlib, and Seaborn, it systematically covers univariate and bivariate analyses:**
+
+**Univariate Analysis:**
+
+**Explores dataset structure, addressing missing values and anomalies.
+Verifies data types and calculates descriptive statistics.
+Visualizes numeric variable distributions through histograms.
+Examines time series trends and seasonal decomposition in sales.
+Uses box plots to identify outliers and analyzes sales distribution by category.**
+
+**Bivariate Analysis:**
+
+**Conducts correlation analysis and explores relationships through scatter plots.
+Utilizes pair plots for a quick overview and analyzes category-wise sales trends.
+Creates heatmaps to visualize the correlation matrix.
+Compares sales across regions and explores customer segment trends.
+Investigates the relationship between sales and quantity sold.
+Analyzes the impact of discounts on sales and explores shipping mode effects.
+Investigates product-wise sales variations and regional differences.**
+
+**Highlights key insights for informed business decisions and predictive modeling**
+
+**Google Colab Link : https://drive.google.com/drive/folders/14G6WmWK45wQbmocIYfuPDnRG1QRRci8c?usp=drive_link**
+
+
