@@ -188,3 +188,12 @@ Investigates product-wise sales variations and regional differences.**
 **Google Colab Link : https://drive.google.com/drive/folders/14G6WmWK45wQbmocIYfuPDnRG1QRRci8c?usp=drive_link**
 
 
+**Project 7 :**
+
+**Air Quality Data Visualization (Tableau) :**
+
+**The air quality dashboard project in Tableau aims to provide a visual analysis of air quality levels across different states or regions in India. It includes interactive components such as a map visualization color-coded based on the air quality index (AQI), time series charts illustrating changes in air quality over the years, and a policy change timeline highlighting key environmental events. Users can customize their views through filter options, compare air quality metrics between states, and identify top pollutants contributing to poor air quality. The dashboard offers insightful annotations for better understanding and is designed to be an informative tool for researchers, policymakers, and the general public concerned about air quality in India.**
+
+**DashBoard: https://public.tableau.com/views/AirQualityData_17069869500160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link**
+
+
