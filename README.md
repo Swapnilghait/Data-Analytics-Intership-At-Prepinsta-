@@ -197,3 +197,21 @@ Investigates product-wise sales variations and regional differences.**
 **DashBoard: https://public.tableau.com/views/AirQualityData_17069869500160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link**
 
 
+**Project 8 :**
+
+**FitBit Data Analysis:**
+
+**Objective:**
+**Conduct a comprehensive analysis of FitBit app data to understand user trends and inform strategic marketing decisions.**
+
+**Key Highlights:**
+
+**Data Source: Minute-level data from 30 users (03.12.2016 to 05.12.2016).
+Analysis Focus: Uncover trends in physical activity, heart rate, and sleep patterns.
+Data Processing: Employed Python for efficient data cleaning and transformation.
+Visualizations: Generated insightful charts and graphs to present key findings.**
+
+**Outcome:
+Provided actionable insights for enhancing user engagement and shaping effective marketing strategies.**
+
+**Google Colab Link :https://colab.research.google.com/drive/1hlBdnarJsFhak6w3Um88V6xC-pSc44vm?usp=sharing**
