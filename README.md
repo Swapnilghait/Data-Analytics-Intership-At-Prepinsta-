@@ -8,7 +8,8 @@ Welcome to the documentation for the projects completed during the Data Analytic
 
 Explore the behavior and preferences of bike buyers through a comprehensive dashboard created in Google Sheets. Analyze demographics, purchasing trends, and derive meaningful insights for business decision-making.
 
-- **Dashboard:** [Bike Buyers Dashboard](https://docs.google.com/spreadsheets/d/10YLlEYCo8b7DbklXzD6cDAlP_l20n_FdFSRGCnul-30/edit?usp=sharing)
+- **Dashboard:** [Bike Buyers Dashboard]
+(https://docs.google.com/spreadsheets/d/1F_b8FmifP5NKzxEnNst-PC8Zbvv5_HSN/edit?usp=drive_link&ouid=115949363635400901556&rtpof=true&sd=true)
 - **Documentation:** [Bike Buyers Dashboard Documentation](https://drive.google.com/file/d/1p_dq2Zp8ZJZO2CUdc_wR5mJJebPNa3ma/view?usp=sharing)
 
 ## Project 2: Frog Leap Puzzle Game
